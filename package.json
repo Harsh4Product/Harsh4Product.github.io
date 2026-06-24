@@ -1,0 +1,9 @@
+{
+  "name": "fm-harsh-profile-website",
+  "version": "0.1.0",
+  "description": "Single-page professional profile website for FM Harsh.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
