@@ -302,7 +302,7 @@ function heroSection() {
       <div class="profile-visual" aria-label="Profile visual">
         <div class="portrait">
           <div class="portrait-grid"></div>
-          <img src="Harsh - Passport Photo.jpeg" alt="Profile Photo">
+          <img src="Harsh formal.jpeg" alt="Profile Photo">
         </div>
         <div class="signal-card top">
           <b>Builder-first</b>
